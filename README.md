@@ -1,4 +1,4 @@
-# Space Retro Shooter 🐱‍👤
+# Space Retro Shooter 🚀🔫
 
 ![Unity Version](https://img.shields.io/badge/Unity-2020.3%2B-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
