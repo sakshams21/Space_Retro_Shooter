@@ -3,7 +3,7 @@
 ![Unity Version](https://img.shields.io/badge/Unity-2020.3%2B-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-[Preview](https://clipchamp.com/watch/JRwxVB5VD6T)
+![Preview](https://clipchamp.com/watch/JRwxVB5VD6T)
 
 Welcome to the Space Retro Shooter Prototype repository! This project aims to attempt to create Space Shooter game.
 
@@ -43,7 +43,7 @@ Welcome to the Space Retro Shooter Prototype repository! This project aims to at
    
 3. **Bullet**:Different powerup adds different ways bullet interact with enemies (bullets are also object pooled for performance).
 
-4.**Boss Battle**: Boss battle to challenge seasoned players. 
+4. **Boss Battle**: Boss battle to challenge seasoned players. 
 
 ### Polish and User Experience ✨
 
