@@ -3,7 +3,7 @@
 ![Unity Version](https://img.shields.io/badge/Unity-2020.3%2B-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-![Preview](https://clipchamp.com/watch/JRwxVB5VD6T)
+![Preview](https://i.imgur.com/T5GLt7c.gif)
 
 Welcome to the Space Retro Shooter Prototype repository! This project aims to attempt to create Space Shooter game.
 
